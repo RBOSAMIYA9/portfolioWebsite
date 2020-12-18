@@ -1,0 +1,20 @@
+body{
+    background-color: #EBF2FF !important;
+}
+
+ul{
+    padding: 0px;
+    margin: 0px !important;
+    list-style: none;
+}
+
+.headermain{padding: 15px 0px;}
+.headermain .navmain ul li{margin: 0px 20px;}
+.commonbtn{padding: 4px 15px;background: black;color: #fff;border-radius: 10px;}
+.hfive{font-size:36px ;letter-spacing: 1px; line-height: 42px;font-weight: 900;color: black;}
+.hone{font-size:36px ; letter-spacing: 1px; line-height: 42px;font-weight: 900;color: black;}
+.htwo{font-size:36px ; letter-spacing: 1px; line-height: 42px;font-weight: 900;color: black;}
+
+.bannerone .banneroneleft{padding-top: 100px;}
+.commonbtn.bgtransparent{background-color:transparent ;border: 1px solid black;color: black;}
+.btnbox{padding-top: 15px;}
