@@ -51,3 +51,12 @@ function consoleText(words, id, colors) {
     }
   }, 400)
 }
+
+$(document).ready(function() {
+  $('.first-button').on('click', function () {
+    $(".headermain").toggleClass("change");
+    $('.animated-icon1').toggleClass('open');
+    
+
+  });
+});
