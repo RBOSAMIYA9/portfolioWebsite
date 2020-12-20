@@ -202,7 +202,8 @@ ul {
 .contact-btn {
 
 
-    width: 10rem !important;
+    display: block;
+    width: 100px;
     margin: 2rem;
 
 }
@@ -334,3 +335,7 @@ svg#freepik_stories-programming.animated #freepik--Chair--inject-2 {
         transform: translateX(0);
     }
 }
+
+ .first-button{display: none;}
+
+ .secondary-btn.contact-btn img{margin-right: 10px;}
