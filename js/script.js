@@ -1,4 +1,6 @@
 // function([string1, string2],target id,[color1,color2])    
+AOS.init();
+
 consoleText(['Fullstack Engineer', 'Tech geek', 'Learner'], 'text',['black']);
 
 function consoleText(words, id, colors) {
