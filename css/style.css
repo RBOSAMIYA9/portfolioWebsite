@@ -210,6 +210,13 @@ ul {
 
 
 
+.fa {
+    transition: .3s transform ease-in-out;
+  }
+  .collapsed .fa {
+    transform: rotate(90deg);
+  }
+
 
 /* text animations */
 .console-container {
