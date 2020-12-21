@@ -231,6 +231,10 @@ ul {
     position: relative;
 }
 
+.section-title{
+    font-family: 'Bebas Neue', cursive;
+}
+
 svg #freepik_stories-programming:not(.animated) .animable {
     opacity: 0;
 
