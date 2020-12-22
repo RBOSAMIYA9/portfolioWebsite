@@ -60,3 +60,15 @@ $(document).ready(function() {
 
   });
 });
+
+
+$(document).ready(function(){
+  if ($(window).width() < 991 ){
+    $("ul").click(function(){
+      $("header").removeClass("change");
+      $("#menu-div").removeClass("open");
+
+    });
+  }
+
+});
