@@ -201,6 +201,11 @@ ul {
     cursor: pointer;
 }
 
+.social-icon-div img:hover{
+    color: var(--primary-blue);
+}
+
+
 .contact-btn {
 
 
@@ -234,6 +239,7 @@ ul {
 .section-title{
     font-family: 'Bebas Neue', cursive;
 }
+
 
 svg #freepik_stories-programming:not(.animated) .animable {
     opacity: 0;
