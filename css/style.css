@@ -83,6 +83,9 @@ ul {
     box-shadow: 0 4px 8px 0 var(--primary-blue);
 }
 
+.primary-color-text{
+    color: var(--primary-blue);
+}
 .headermain {
     padding: 15px 0px;
 }
